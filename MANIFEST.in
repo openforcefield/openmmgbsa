@@ -1,0 +1,6 @@
+include LICENSE
+include MANIFEST.in
+include versioneer.py
+
+graft openmm_gbsa
+global-exclude *.py[cod] __pycache__ *.so
