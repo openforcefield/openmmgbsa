@@ -1,5 +1,5 @@
 """
-openmm_gbsa.py
+openmmgbsa.py
 A short description of the project.
 
 Handles the primary functions
