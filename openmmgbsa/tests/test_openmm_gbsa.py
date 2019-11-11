@@ -1,12 +1,12 @@
 """
-Unit and regression test for the openmm_gbsa package.
+Unit and regression test for the openmmgbsa package.
 """
 
 # Import package, test suite, and other packages as needed
-import openmm_gbsa
+import openmmgbsa
 import pytest
 import sys
 
-def test_openmm_gbsa_imported():
+def test_openmmgbsa_imported():
     """Sample test, will always pass so long as import statement worked"""
-    assert "openmm_gbsa" in sys.modules
+    assert "openmmgbsa" in sys.modules

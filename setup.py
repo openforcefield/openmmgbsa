@@ -21,7 +21,7 @@ except:
 
 setup(
     # Self-descriptive entries which should always be present
-    name='openmm_gbsa',
+    name='openmmgbsa',
     author='Open Force Field',
     author_email='jaime.rogue@gmail.com',
     description=short_description[0],

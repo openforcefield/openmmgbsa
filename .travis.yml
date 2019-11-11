@@ -42,7 +42,7 @@ install:
 
 
 script:
-  - pytest -v --cov=openmm_gbsa openmm_gbsa/tests/
+  - pytest -v --cov=openmmgbsa openmmgbsa/tests/
 
 notifications:
     email: false
